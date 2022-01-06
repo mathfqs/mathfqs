@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Ferreira.
 
 - 🔭 Hoje estou trabalhando como Suporte na Autodoc.
-- 🌱 Estudando Flutter.
+- 🌱 Estudando Python.
 
 <div align="center">
   <a href="https://github.com/mathfqs">
