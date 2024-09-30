@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Ferreira.
 
-- 🔭 Hoje estou trabalhando como Suporte na Autodoc.
+- 🔭 Hoje estou trabalhando como Analista de Business Intelligence na Autodoc.
 - 🌱 Estudando Python.
 
 <div align="center">
