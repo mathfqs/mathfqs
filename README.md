@@ -1,20 +1,90 @@
-### Olá! Eu sou o Matheus Ferreira.
+# Matheus Ferreira
 
-- 🔭 Hoje estou trabalhando como Analista de Business Intelligence na Autodoc.
-- 🌱 Estudando Python.
+🚀 Automation | Data | SaaS Builder
 
-<div align="center">
-  <a href="https://github.com/mathfqs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathfqs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathfqs&layout=compact&langs_count=7&theme=light"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-</div>
+Sou analista de automação e dados focado em criar sistemas que eliminam trabalho manual e transformam dados em decisões.
+
+Atuo desenvolvendo automações, integrações entre APIs e produtos SaaS, além de soluções de análise e visualização de dados para operações.
+
+---
+
+## 🧠 O que eu faço
+
+- Automação de processos
+- Engenharia de dados aplicada a operações
+- Integração entre APIs e sistemas
+- Desenvolvimento de SaaS
+- Chatbots e automação via WhatsApp
+- Data visualization para tomada de decisão
+
+---
+
+## 🚧 Projetos
+
+### Navi
+
+SaaS de automação e atendimento via WhatsApp para pequenos negócios.
+
+Objetivos do produto:
+
+• automatizar atendimento  
+• organizar pedidos e agendamentos  
+• transformar conversas em vendas  
+
+Tecnologias utilizadas:
+
+Python • PostgreSQL • APIs • Webhooks • Cloud
+
+---
+
+## 🛠 Tech Stack
+
+**Backend & Automação**
+
+- Python
+- REST APIs
+- Webhooks
+- Automação de processos
+
+**Dados**
+
+- SQL
+- Data pipelines
+- ETL
+- Modelagem de dados
+
+**Data Platforms**
+
+- Databricks
+
+**Data Visualization**
+
+- Dashboards operacionais
+- Indicadores de performance
+- Monitoramento de operações
+
+**Banco de dados**
+
+- PostgreSQL
+
+---
+
+## 📊 Áreas de interesse
+
+- Automação de negócios
+- SaaS
+- Engenharia de dados
+- Data visualization
+- Chatbots
+- Inteligência operacional
+
+---
+
+## 📫 Contato
+
+LinkedIn  
+Twitter/X  
+
+---
+
+⭐ Se algum projeto aqui te ajudou, considere deixar uma estrela.
