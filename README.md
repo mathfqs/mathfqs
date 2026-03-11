@@ -8,17 +8,6 @@ Atuo desenvolvendo automações, integrações entre APIs e produtos SaaS, além
 
 ---
 
-## 🧠 O que eu faço
-
-- Automação de processos
-- Engenharia de dados aplicada a operações
-- Integração entre APIs e sistemas
-- Desenvolvimento de SaaS
-- Chatbots e automação via WhatsApp
-- Data visualization para tomada de decisão
-
----
-
 ## 🚧 Projetos
 
 ### Navi
@@ -66,25 +55,5 @@ Python • PostgreSQL • APIs • Webhooks • Cloud
 **Banco de dados**
 
 - PostgreSQL
-
----
-
-## 📊 Áreas de interesse
-
-- Automação de negócios
-- SaaS
-- Engenharia de dados
-- Data visualization
-- Chatbots
-- Inteligência operacional
-
----
-
-## 📫 Contato
-
-LinkedIn  
-Twitter/X  
-
----
 
 ⭐ Se algum projeto aqui te ajudou, considere deixar uma estrela.
